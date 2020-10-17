@@ -1,0 +1,41 @@
+.container {
+    
+}
+body{
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+h1,h2,h3,h4,h5 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+p, span, article {
+    font-weight: 400;
+}
+.image-wrapper{
+    padding: 20px;
+}
+.col-12, .md-6{
+    margin: 15px 0px;
+}
+.hero{
+    padding: 5vw 0 5vw 0;
+}
+footer{
+    padding: 30px 0;
+}
+.footer-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.lead{
+    font-size: 17px;
+}
+.bold{
+    font-weight: 700;
+}
+.footer-text{
+    font-size: 15px;
+}
